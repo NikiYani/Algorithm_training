@@ -7,5 +7,13 @@
 #include "search_in_rotated_sorted_array_33_leetcode.h"
 #include "find_minimum_in_rotated_sorted_array_153_leetcode.h"
 #include "search_in_rotated_sorted_array_2_81_leetcode.h"
+#include "valid_parentheses_20_leetcode.h"
+#include "linked_list_cycle_141_leetcode.h"
+#include "reverse_linked_list_206_leetcode.h"
+#include "reverse_string_344_leetcode.h"
+#include "palindrome_linked_list_234.h"
+#include "remove_linked_list_elements_203_leetcode.h"
+#include "single_number_136_leetcode.h"
+#include "two_sum_1_leetcode.h"
 
 #endif // LEETCODE_H

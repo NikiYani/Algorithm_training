@@ -1,6 +1,6 @@
 QT -= gui
 
-CONFIG += c++11 console
+CONFIG += c++11 c++14 c++17 console
 CONFIG -= app_bundle
 
 # You can make your code fail to compile if it uses deprecated APIs.
@@ -11,10 +11,18 @@ SOURCES += \
         binary_search_704_leetcode.cpp \
         find_minimum_in_rotated_sorted_array_153_leetcode.cpp \
         guess_number_higher_or_lower_374_leetcode.cpp \
+        linked_list_cycle_141_leetcode.cpp \
         main.cpp \
+        palindrome_linked_list_234.cpp \
+        remove_linked_list_elements_203_leetcode.cpp \
+        reverse_linked_list_206_leetcode.cpp \
+        reverse_string_344_leetcode.cpp \
         search_a_2d_matrix_74_leetcode.cpp \
         search_in_rotated_sorted_array_2_81_leetcode.cpp \
-        search_in_rotated_sorted_array_33_leetcode.cpp
+        search_in_rotated_sorted_array_33_leetcode.cpp \
+        single_number_136_leetcode.cpp \
+        two_sum_1_leetcode.cpp \
+        valid_parentheses_20_leetcode.cpp
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
@@ -26,6 +34,14 @@ HEADERS += \
     find_minimum_in_rotated_sorted_array_153_leetcode.h \
     guess_number_higher_or_lower_374_leetcode.h \
     leetcode.h \
+    linked_list_cycle_141_leetcode.h \
+    palindrome_linked_list_234.h \
+    remove_linked_list_elements_203_leetcode.h \
+    reverse_linked_list_206_leetcode.h \
+    reverse_string_344_leetcode.h \
     search_a_2d_matrix_74_leetcode.h \
     search_in_rotated_sorted_array_2_81_leetcode.h \
-    search_in_rotated_sorted_array_33_leetcode.h
+    search_in_rotated_sorted_array_33_leetcode.h \
+    single_number_136_leetcode.h \
+    two_sum_1_leetcode.h \
+    valid_parentheses_20_leetcode.h

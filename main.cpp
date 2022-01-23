@@ -2,8 +2,8 @@
 #include <leetcode.h>
 #include <iostream>
 #include <stdio.h>
-#include <set>
 #include <string>
+#include <set>
 
 using namespace std;
 
@@ -24,7 +24,10 @@ int main(int argc, char *argv[])
 //    cout << palindrome_linked_list_234::palindrome_check() << endl;
 //    remove_linked_list_elements_203_leetcode::remove_linked_list_elements();
 //    cout << single_number_136_leetcode::single_number() << endl;
-    two_sum_1_leetcode::print_vector();
+//    two_sum_1_leetcode::print_vector();
+//    cout << same_tree_100::tree_comparison() << endl;
+    cout << symmetric_tree_101_leetcode::symmetric_tree() << endl;
+
 
     return a.exec();
 }

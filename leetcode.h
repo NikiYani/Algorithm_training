@@ -15,5 +15,7 @@
 #include "remove_linked_list_elements_203_leetcode.h"
 #include "single_number_136_leetcode.h"
 #include "two_sum_1_leetcode.h"
+#include "same_tree_100_leetcode.h"
+#include "symmetric_tree_101_leetcode.h"
 
 #endif // LEETCODE_H

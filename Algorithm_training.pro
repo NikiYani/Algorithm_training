@@ -17,10 +17,12 @@ SOURCES += \
         remove_linked_list_elements_203_leetcode.cpp \
         reverse_linked_list_206_leetcode.cpp \
         reverse_string_344_leetcode.cpp \
+        same_tree_100_leetcode.cpp \
         search_a_2d_matrix_74_leetcode.cpp \
         search_in_rotated_sorted_array_2_81_leetcode.cpp \
         search_in_rotated_sorted_array_33_leetcode.cpp \
         single_number_136_leetcode.cpp \
+        symmetric_tree_101_leetcode.cpp \
         two_sum_1_leetcode.cpp \
         valid_parentheses_20_leetcode.cpp
 
@@ -39,9 +41,11 @@ HEADERS += \
     remove_linked_list_elements_203_leetcode.h \
     reverse_linked_list_206_leetcode.h \
     reverse_string_344_leetcode.h \
+    same_tree_100_leetcode.h \
     search_a_2d_matrix_74_leetcode.h \
     search_in_rotated_sorted_array_2_81_leetcode.h \
     search_in_rotated_sorted_array_33_leetcode.h \
     single_number_136_leetcode.h \
+    symmetric_tree_101_leetcode.h \
     two_sum_1_leetcode.h \
     valid_parentheses_20_leetcode.h

@@ -17,5 +17,8 @@
 #include "two_sum_1_leetcode.h"
 #include "same_tree_100_leetcode.h"
 #include "symmetric_tree_101_leetcode.h"
+#include "merge_intervals_56_leetcode.h"
+#include "balanced_binary_tree_110_leetcode.h"
+#include "maximum_depth_of_binary_tree_104_leetcode.h"
 
 #endif // LEETCODE_H

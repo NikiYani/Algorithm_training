@@ -15,6 +15,7 @@ public:
     reverse_linked_list_206_leetcode();
 
     static void reverse_linked_list();
+    static void reverse_doubly_linked_list();
 };
 
 #endif // REVERSE_LINKED_LIST_206_LEETCODE_H

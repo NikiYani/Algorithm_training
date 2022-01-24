@@ -26,7 +26,11 @@ int main(int argc, char *argv[])
 //    cout << single_number_136_leetcode::single_number() << endl;
 //    two_sum_1_leetcode::print_vector();
 //    cout << same_tree_100::tree_comparison() << endl;
-    cout << symmetric_tree_101_leetcode::symmetric_tree() << endl;
+//    cout << symmetric_tree_101_leetcode::symmetric_tree() << endl;
+//    reverse_linked_list_206_leetcode::reverse_doubly_linked_list();
+//    merge_intervals_56_leetcode::merge_intervals();
+//    cout << balanced_binary_tree_110_leetcode::balanced_binary_tree() << endl;
+    cout << maximum_depth_of_binary_tree_104_leetcode::maximum_depth() << endl;
 
 
     return a.exec();

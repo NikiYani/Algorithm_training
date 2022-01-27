@@ -20,5 +20,7 @@
 #include "merge_intervals_56_leetcode.h"
 #include "balanced_binary_tree_110_leetcode.h"
 #include "maximum_depth_of_binary_tree_104_leetcode.h"
+#include "best_time_to_buy_and_sell_stock_121_leetcode.h"
+#include "best_time_to_buy_and_sell_stock_2_122_leetcode.h"
 
 #endif // LEETCODE_H

@@ -9,6 +9,8 @@ CONFIG -= app_bundle
 
 SOURCES += \
         balanced_binary_tree_110_leetcode.cpp \
+        best_time_to_buy_and_sell_stock_121_leetcode.cpp \
+        best_time_to_buy_and_sell_stock_2_122_leetcode.cpp \
         binary_search_704_leetcode.cpp \
         find_minimum_in_rotated_sorted_array_153_leetcode.cpp \
         guess_number_higher_or_lower_374_leetcode.cpp \
@@ -36,6 +38,8 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 HEADERS += \
     balanced_binary_tree_110_leetcode.h \
+    best_time_to_buy_and_sell_stock_121_leetcode.h \
+    best_time_to_buy_and_sell_stock_2_122_leetcode.h \
     binary_search_704_leetcode.h \
     find_minimum_in_rotated_sorted_array_153_leetcode.h \
     guess_number_higher_or_lower_374_leetcode.h \

@@ -30,7 +30,9 @@ int main(int argc, char *argv[])
 //    reverse_linked_list_206_leetcode::reverse_doubly_linked_list();
 //    merge_intervals_56_leetcode::merge_intervals();
 //    cout << balanced_binary_tree_110_leetcode::balanced_binary_tree() << endl;
-    cout << maximum_depth_of_binary_tree_104_leetcode::maximum_depth() << endl;
+//    cout << maximum_depth_of_binary_tree_104_leetcode::maximum_depth() << endl;
+//    cout << best_time_to_buy_and_sell_stock_121_leetcode::best_time_to_buy_and_sell_stock() << endl;
+    cout << best_time_to_buy_and_sell_stock_2_122_leetcode::best_time_to_buy_and_sell_stock() << endl;
 
 
     return a.exec();

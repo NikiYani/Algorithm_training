@@ -11,7 +11,10 @@ SOURCES += \
         balanced_binary_tree_110_leetcode.cpp \
         best_time_to_buy_and_sell_stock_121_leetcode.cpp \
         best_time_to_buy_and_sell_stock_2_122_leetcode.cpp \
+        best_time_to_buy_and_sell_stock_with_cooldown_309_leetcode.cpp \
+        best_time_to_buy_and_sell_stock_with_transaction_fee_714_leetcode.cpp \
         binary_search_704_leetcode.cpp \
+        binary_tree_paths_257_leetcode.cpp \
         find_minimum_in_rotated_sorted_array_153_leetcode.cpp \
         guess_number_higher_or_lower_374_leetcode.cpp \
         linked_list_cycle_141_leetcode.cpp \
@@ -19,6 +22,7 @@ SOURCES += \
         maximum_depth_of_binary_tree_104_leetcode.cpp \
         merge_intervals_56_leetcode.cpp \
         palindrome_linked_list_234.cpp \
+        path_sum_2_113_leetcode.cpp \
         remove_linked_list_elements_203_leetcode.cpp \
         reverse_linked_list_206_leetcode.cpp \
         reverse_string_344_leetcode.cpp \
@@ -40,7 +44,10 @@ HEADERS += \
     balanced_binary_tree_110_leetcode.h \
     best_time_to_buy_and_sell_stock_121_leetcode.h \
     best_time_to_buy_and_sell_stock_2_122_leetcode.h \
+    best_time_to_buy_and_sell_stock_with_cooldown_309_leetcode.h \
+    best_time_to_buy_and_sell_stock_with_transaction_fee_714_leetcode.h \
     binary_search_704_leetcode.h \
+    binary_tree_paths_257_leetcode.h \
     find_minimum_in_rotated_sorted_array_153_leetcode.h \
     guess_number_higher_or_lower_374_leetcode.h \
     leetcode.h \
@@ -48,6 +55,7 @@ HEADERS += \
     maximum_depth_of_binary_tree_104_leetcode.h \
     merge_intervals_56_leetcode.h \
     palindrome_linked_list_234.h \
+    path_sum_2_113_leetcode.h \
     remove_linked_list_elements_203_leetcode.h \
     reverse_linked_list_206_leetcode.h \
     reverse_string_344_leetcode.h \

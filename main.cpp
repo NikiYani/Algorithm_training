@@ -32,7 +32,11 @@ int main(int argc, char *argv[])
 //    cout << balanced_binary_tree_110_leetcode::balanced_binary_tree() << endl;
 //    cout << maximum_depth_of_binary_tree_104_leetcode::maximum_depth() << endl;
 //    cout << best_time_to_buy_and_sell_stock_121_leetcode::best_time_to_buy_and_sell_stock() << endl;
-    cout << best_time_to_buy_and_sell_stock_2_122_leetcode::best_time_to_buy_and_sell_stock() << endl;
+//    cout << best_time_to_buy_and_sell_stock_2_122_leetcode::best_time_to_buy_and_sell_stock() << endl;
+//    cout << best_time_to_buy_and_sell_stock_with_transaction_fee_714_leetcode::best_time_to_buy_and_sell_stock() << endl;
+//    cout << best_time_to_buy_and_sell_stock_with_cooldown_309_leetcode::best_time_to_buy_and_sell_stock() << endl;
+//    path_sum_2_113_leetcode::path_sum();
+    binary_tree_paths_257_leetcode::binary_tree_paths();
 
 
     return a.exec();
